@@ -1,6 +1,6 @@
 # MLOps
 Assignment3_Q2
-
+####
 MLOps Lifecycle: Integrating DevOps, DataOps, and ModelOps
 **Introduction**
 Machine Learning Operations, or MLOps, is an emerging field that focuses on streamlining and automating the lifecycle management of machine learning (ML) models. It borrows principles and practices from DevOps, DataOps, and ModelOps to create a cohesive framework for efficiently developing, deploying, and maintaining ML models in production environments.
